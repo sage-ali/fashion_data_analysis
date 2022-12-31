@@ -129,3 +129,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/fashion_dataset_p_attrib.csv
+data/mrtest.csv
+data/p_attrib_output.csv
+python_scripts/mapreduce_.py
+python_scripts/combine.py
+notebooks/fashion_data_cleaning copy.ipynb
+output.csv
