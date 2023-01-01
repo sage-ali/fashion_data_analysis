@@ -136,3 +136,4 @@ python_scripts/mapreduce_.py
 python_scripts/combine.py
 notebooks/fashion_data_cleaning copy.ipynb
 output.csv
+.vscode
