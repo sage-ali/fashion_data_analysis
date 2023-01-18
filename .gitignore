@@ -137,3 +137,10 @@ python_scripts/combine.py
 notebooks/fashion_data_cleaning copy.ipynb
 output.csv
 .vscode
+SQLcommands
+python_scripts/snapshot.py
+python_scripts/mapreduce.py
+notebooks/input.csv
+data/input.csv
+data/fashion_datasetH.csv
+data/fashion_datasetJ.csv
